@@ -15,7 +15,7 @@ Then to sync up:
 
     repo sync
 
-Choose a target:
+Choose target:
 
     lunch aosp_degaswifi-[eng|userdebug|user]
 
