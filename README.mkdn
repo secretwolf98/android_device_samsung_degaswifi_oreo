@@ -4,7 +4,7 @@ AOSP Oreo
 Getting Started
 ---------------
 
-To get started with Android for Samsung Tab 4, you'll need to get
+To get started with Android for degaswifi, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository, use a command like this:
