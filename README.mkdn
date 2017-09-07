@@ -4,12 +4,12 @@ AOSP Oreo
 Getting Started
 ---------------
 
-To get started with Android for Nook HD/HD+, you'll need to get
+To get started with Android for Samsung Tab 4, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository, use a command like this:
 
-    repo init -u git://github.com/secretwolf98/android_device_bn_nook -b oreo
+    repo init -u git://github.com/secretwolf98/android_device_samsung_degaswifi_oreo -b master
 
 Then to sync up:
 
@@ -17,6 +17,6 @@ Then to sync up:
 
 Choose a target:
 
-    lunch aosp_[ovation|hummingbird]-[eng|userdebug|user]
+    lunch aosp_degaswifi-[eng|userdebug|user]
 
 Please refer to the [AOSP Guide](https://source.android.com/source/building.html) for further building instructions.
