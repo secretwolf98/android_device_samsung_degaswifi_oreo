@@ -535,6 +535,6 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
   <!-- Device-specific -->
-  <include name="snippets/bn_hd.xml" />
+  <include name="snippets/samsung_tab4.xml" />
 
 </manifest>
