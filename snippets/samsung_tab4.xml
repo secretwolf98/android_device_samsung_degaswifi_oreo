@@ -17,9 +17,9 @@
   <remote  name="github" fetch=".."
            revision="master" />
 
-  <project path="kernel/samsung/omap" name="android_kernel_samsung_omap" remote="secretwolf98" revision="stable" />
+  <project path="kernel/samsung/omap" name="android_kernel_samsung_omap" remote="airend" revision="stable" />
 
-  <project path="device/samsung/degaswifi" name="android_device_samsung_degaswifi" remote="secretwolf98" />
+  <project path="device/samsung/degaswifi" name="android_device_samsung_degaswifi" remote="airend" />
 
   <project path="vendor/ti" name="proprietary_vendor_ti" remote="unlegacy" revision="stable" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="unlegacy" revision="stable" />
