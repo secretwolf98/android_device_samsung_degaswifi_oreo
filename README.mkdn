@@ -9,7 +9,7 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository, use a command like this:
 
-    repo init -u git://github.com/secretwolf98/android_device_samsung_degaswifi_oreo -b oreo
+    repo init -u git://github.com/secretwolf98/android_device_samsung_degaswifi_oreo -b oreo2
 
 Then to sync up:
 
