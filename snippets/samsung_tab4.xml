@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="secretwolf98" fetch="." revision="ng-14" />
+  <remote  name="airend" fetch="." revision="ng-14" />
 
   <remote  name="unlegacy" fetch="../Unlegacy-Android"
            revision="aosp-8.0" />
@@ -17,9 +17,8 @@
   <remote  name="github" fetch=".."
            revision="master" />
 
-  <project path="kernel/samsung/omap" name="android_kernel_samsung_omap" remote="secretwolf98" revision="stable" />
+  <project path="kernel/bn/omap" name="android_kernel_bn_omap" remote="secretwolf98" revision="stable" />
 
-  <project path="device/samsung/common" name="android_device_samsung_common" remote="secretwolf98" />
   <project path="device/samsung/degaswifi" name="device_samsung_degaswifi" remote="secretwolf98" />
 
   <project path="vendor/ti" name="proprietary_vendor_ti" remote="unlegacy" revision="stable" />
